@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 - QQ:1162845381
 - Telegram:@Adanadia
 - email:[hodia.jv.self@gmail.com](mailto:hodia.jv.self@gmail.com)
-<br/><br/>
 #### Personal information：🔭
 - Hodia/birth in 2001
 - undergraduate/Anhui Unversity/computer science and technology (2019-2023)
