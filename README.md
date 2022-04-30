@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Adanadia/adanadia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm currently learning in Anhui Unversity.🌱<br/>
-<br/>
-> How to reach me: 
+# How to reach me: 
 - QQ:1162845381
 - Telegram:@Adanadia
+- email:[hodia.jv.self@gmail.com](mailto:hodia.jv.self@gmail.com)
+<br/><br/>
+# personal information
+- Hodia/2001
+- undergraduate/Anhui Unversity/computer science and technology (2019-2023)
+- technical ability：
+  - web development
+  - springMVC
+  - linux operation and maintenance
+  - mongodb/redis/pgsql/mysql/ and so on
+  - wechat applet development
