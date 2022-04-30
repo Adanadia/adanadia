@@ -25,3 +25,4 @@ Here are some ideas to get you started:
   - linux operation and maintenance
   - mongodb/redis/pgsql/mysql/ and so on
   - wechat applet development
+[click here to my homepage](adanadia.github.io) 
