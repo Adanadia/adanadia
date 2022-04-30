@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[click here to my homepage](adanadia.github.io) 
 #### How to reach me: 💬
 - QQ:1162845381
 - Telegram:@Adanadia
@@ -25,5 +26,3 @@ Here are some ideas to get you started:
   - linux operation and maintenance
   - mongodb/redis/pgsql/mysql/ and so on
   - wechat applet development
-<br/>
-[click here to my homepage](adanadia.github.io) 
