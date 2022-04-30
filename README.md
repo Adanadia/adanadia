@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[click here to my homepage](adanadia.github.io) 
+[click here to my homepage](https://adanadia.github.io/) 
 #### How to reach me: 💬
 - QQ:1162845381
 - Telegram:@Adanadia
