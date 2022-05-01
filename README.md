@@ -26,3 +26,5 @@ Here are some ideas to get you started:
   - linux operation and maintenance
   - mongodb/redis/pgsql/mysql/ and so on
   - wechat applet development
+
+![](https://github-readme-stats.vercel.app/api?username=Adanadia&show_icons=true&theme=dark)
