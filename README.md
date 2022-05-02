@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 [click here to my homepage](https://adanadia.github.io/) <br/>
 #### How to reach me: 💬
 - QQ:1162845381
-- Telegram:[@Adanadia](tg://resolve?domain=@Adanadia)
+Telegram:[@Adanadia](tg://resolve?domain=@Adanadia)
 - email:[hodia.jv.self@gmail.com](mailto:hodia.jv.self@gmail.com)
 #### Personal information：🔭
 - Hodia/birth in 2001
