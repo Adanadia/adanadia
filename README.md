@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[click here to my homepage](https://adanadia.github.io/) 
+[click here to my homepage](https://adanadia.github.io/) <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adanadia&langs_count=8)
 #### How to reach me: 💬
 - QQ:1162845381
