@@ -27,6 +27,8 @@ Here are some ideas to get you started:
   - mongodb/redis/pgsql/mysql/ and so on
   - wechat applet development
 
-![](https://github-readme-stats.vercel.app/api?username=Adanadia&show_icons=true&theme=synthwave)
+![](https://github-readme-stats.vercel.app/api?username=Adanadia&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adanadia&langs_count=8&theme=synthwave)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Adanadia&repo=github-readme-stats)
