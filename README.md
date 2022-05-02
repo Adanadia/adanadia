@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [click here to my homepage](https://adanadia.github.io/) <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adanadia&langs_count=8)
 #### How to reach me: 💬
 - QQ:1162845381
 - Telegram:@Adanadia
@@ -30,3 +29,4 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=Adanadia&show_icons=true&theme=dark)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adanadia&langs_count=8&theme=dark)
